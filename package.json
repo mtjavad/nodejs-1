@@ -50,7 +50,7 @@
     "striptags": "^3.1.1",
     "sweetalert2": "^7.26.10",
     "unique-string": "^1.0.0",
-    "validator": "^10.5.0",
+    "validator": "^13.7.0",
     "zarinpal-checkout": "^0.2.7"
   },
   "devDependencies": {
